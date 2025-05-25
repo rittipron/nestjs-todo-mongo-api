@@ -21,7 +21,7 @@ API สำหรับจัดการ `Products` และ `Orders` ด้ว
 ## 🛠 Installation
 
 # Clone โปรเจกต์
-git clone https://github.com/your-username/nestjs-todo-mongo-api.git
+git clone https://github.com/rittipron/nestjs-todo-mongo-api.git
 cd nestjs-todo-mongo-api
 
 # ติดตั้ง dependencies
